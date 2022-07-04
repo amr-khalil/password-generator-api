@@ -1,6 +1,5 @@
 # REST API to generate a list of secure passwords
-## This API was developed with python3 and FastApi
-## You can deploy it on a docker conrainer
+## Technologies: python3, FastApi and Docker
 
 **FastApi** is the main library that used in this code.For more details about FastApi visit this link:
 - https://fastapi.tiangolo.com
