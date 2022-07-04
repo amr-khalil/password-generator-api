@@ -20,5 +20,7 @@ Args:
         - numbers_num: number of numbers in the password.
         - count: number of passwords that must be created.
 
-For example: http://127.0.0.1:8000/password?min_length=6&schars_num=5&numbers_num=5&count=5
+For example: 
+- **http://127.0.0.1:8000/password?min_length=6&schars_num=5&numbers_num=5&count=5**
+
 To see what requests can be made navigate to the /docs
