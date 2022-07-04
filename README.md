@@ -23,4 +23,5 @@ You can then make requests to the api by specifying a url with parameters if nee
 **For example**: 
 - **http://127.0.0.1:8000/password?min_length=6&schars_num=5&numbers_num=5&count=5**
 
-To see what requests can be made navigate to the **http://127.0.0.1:8000/docs**
+To see the API documentation:
+- **http://127.0.0.1:8000/docs**
