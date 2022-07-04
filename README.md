@@ -1,11 +1,11 @@
 ## This REST API was developed with Python3
 
-### FastApi is the main library that used in this code.For more details about FastApi visit this link:
+**FastApi** is the main library that used in this code.For more details about FastApi visit this link:
 - https://fastapi.tiangolo.com
  
 Before you start make sure that you have install python3 and the library in the requirments file
 navigate to the src folder and run the following command:
-> pip install -r requirements.txt
+> ‘pip install -r requirements.txt‘
 
 To run the server start uvicorn in your terminal
 > uvicorn main:app --reload
