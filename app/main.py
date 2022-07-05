@@ -1,21 +1,6 @@
 """
-## Exercise 1: Programming
-
-Duration: You should spend around 2 hours
-
-Challenge: Create a prototype of a REST API that generates secure passwords. You can use programming language and libraries of your choice. As input parameters in the request the user has to provide:
-* minimum length 
-* number of special characters in the password
-* number of numbers in the password
-* number of passwords that must be created. 
-
-The program must generate the passwords in response and return them in an array.
-
-### Extra Credits
-Prepare a minimal setup to deploy your application into a kubernetes cluster.
-
+ Main REST API file
 """
-
 # Import libraries
 from typing import Optional
 
